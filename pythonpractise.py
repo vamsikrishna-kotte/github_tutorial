@@ -1,2 +1,5 @@
 name='vamsi'
 print(f'Hello, {name}! How are you doing today?')
+
+new_name = input("Please enter your name: ")
+print(f'Hello, {new_name}! Nice to meet you!')
